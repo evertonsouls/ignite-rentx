@@ -48,9 +48,10 @@
     // "mapRoot": "",
     // "inlineSourceMap": true,
     // "inlineSources": true,
-    // "experimentalDecorators": true,
-    // "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
     "skipLibCheck": true,
-    "forceConsistentCasingInFileNames": true
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true
   }
 }
